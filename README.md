@@ -1,2 +1,2 @@
-# Easybank-landing-page-Challenge
+# My First Project
 This is my first project! Yay!
